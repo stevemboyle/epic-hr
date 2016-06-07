@@ -16,11 +16,21 @@ This application will have `users`. Those `users` will have:
 - `bio`
 - `headshot`
 
+### Audition Videos
+
+These will have:
+
+- `id`
+- `video_link`
+- `actor_id`
+
 ### Experiences
 
 These will have:
 
 - `id`
+- `title`
+- `description`
 
 ### ActorCastings
 
@@ -29,8 +39,6 @@ These will have:
 - `id`
 - `actor_id`
 - `experience_id`
-
-
 
 ### Rehearsals
 
