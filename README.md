@@ -16,6 +16,34 @@ This application will have `users`. Those `users` will have:
 - `bio`
 - `headshot`
 
+### Experiences
+
+These will have:
+
+- `id`
+
+### ActorCastings
+
+These will have:
+
+- `id`
+- `actor_id`
+- `experience_id`
+
+
+
+### Rehearsals
+
+These will have:
+- `id`
+- `experience_id`
+
+### Rehearsal Reports
+
+These will have:
+- `id`
+- `rehearsal_id`
+- `author_id`
 
 ### Photos
 
